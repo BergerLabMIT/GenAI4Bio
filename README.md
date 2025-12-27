@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Generative AI for Biology
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Generative AI for Biology
 ---
 
 # Just the Class

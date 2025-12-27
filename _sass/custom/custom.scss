@@ -7,6 +7,24 @@
 @import 'schedule';
 @import 'staffer';
 
+:root {
+  --nav-width: 220px;
+}
+
+body {
+  font-family: "XCharter", "Charter", Georgia, serif;
+}
+
+a {
+  color: inherit;
+  // text-decoration-color: #de4f96;
+  &:hover,
+  &:focus {
+    // color: lighten(#de4f96, 6%);
+    text-decoration-color: lighten(#de4f96, 10%);
+  }
+}
+
 // Overrides
 code {
   font-size: 14px;
@@ -48,4 +66,8 @@ summary {
       margin-top: 1em;
     }
   }
+}
+
+.label-purple:not(g) {
+  background-color: #de4f96;
 }
