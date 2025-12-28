@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Calendar
+title: Lecture Schedule
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Lecture Schedule
+
+--- 
 
 {% for module in site.modules %}
 {{ module }}

@@ -1,0 +1,20 @@
+{%- comment -%}
+Inject optional dark theme stylesheet and initialize to the user's stored or preferred mode.
+{%- endcomment -%}
+<link id="jtd-dark-theme" rel="stylesheet" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}" disabled>
+<script>
+(function() {
+  var storageKey = 'jtd-theme';
+  var darkLink = document.getElementById('jtd-dark-theme');
+  if (!darkLink) return;
+
+  var stored = localStorage.getItem(storageKey);
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  var useDark = stored ? stored === 'dark' : prefersDark;
+
+  if (useDark) {
+    darkLink.disabled = false;
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+})();
+</script>

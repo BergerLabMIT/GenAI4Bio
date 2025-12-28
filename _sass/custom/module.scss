@@ -2,18 +2,17 @@
 .module {
   @extend %card;
 
-  a {
-    // color: #de4f96;
-    // text-decoration-color: #de4f96;
-    color: gray;
-    text-decoration-color: lighten(gray, 10%);
-    &:hover,
-    &:focus {
-      // color: lighten(#de4f96, 6%);
-      color: lighten(#de4f96, 17%);
-      text-decoration-color: lighten(#de4f96, 17%);
-    }
+ a {
+  color: lighten(#de4f96, 5%);
+  // text-decoration-color: lighten($link-color, 10%) !important;
+
+  &:hover,
+  &:focus {
+    // color: lighten($link-color, 6%);
+    text-decoration-color: lighten(#de4f96, 20%) !important;
   }
+}
+
 
   h1,
   h2,

@@ -7,8 +7,19 @@
 @import 'schedule';
 @import 'staffer';
 
+$link-color: lighten(#de4f96, 5%);
+$accent-color: $link-color;
+$icon-color: $link-color;
+
+$sp-11: 5rem;
+$sp-12: 6rem;
+$sp-13: 7rem;
+$sp-14: 8rem;
+$sp-15: 9rem;
+$sp-16: 10rem;
+
 :root {
-  --nav-width: 220px;
+  --nav-width: 180px;
 }
 
 body {
@@ -16,12 +27,13 @@ body {
 }
 
 a {
-  color: inherit;
-  // text-decoration-color: #de4f96;
+  color: $link-color;
+  // text-decoration-color: lighten($link-color, 10%) !important;
+
   &:hover,
   &:focus {
-    // color: lighten(#de4f96, 6%);
-    text-decoration-color: lighten(#de4f96, 10%);
+    // color: lighten($link-color, 6%);
+    text-decoration-color: lighten(#de4f96, 20%) !important;
   }
 }
 
@@ -69,5 +81,98 @@ summary {
 }
 
 .label-purple:not(g) {
-  background-color: #de4f96;
+  background-color: #f467ae;
+}
+
+.icon,
+.main-content .anchor-heading svg,
+.nav-list .nav-list-item .nav-list-expander,
+.search-label .search-icon,
+.search-input:focus + .search-label .search-icon,
+.search-result-doc .search-result-icon {
+  color: $icon-color !important;
+}
+
+.main {
+  @include mq(md) {
+    max-width: 70rem;
+  }
+}
+
+.site-nav a {
+  color: inherit !important;
+}
+
+.about-hero {
+  display: flex;
+  justify-content: center;
+  margin: $sp-6 0;
+}
+
+.about-hero img {
+  max-width: min(600px, 100%);
+  width: 100%;
+  height: auto;
+  border-radius: $border-radius;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.main-content-wrap {
+  padding-left: $sp-3;
+  padding-right: $sp-15;
+
+  @include mq(md) {
+    padding-left: $sp-5;
+    padding-right: $sp-16;
+  }
+
+  @include mq(lg) {
+    padding-left: $sp-6;
+    padding-right: $sp-16;
+  }
+}
+
+@include mq(md) {
+  .side-bar {
+    width: 13rem !important;
+    min-width: 13rem !important;
+  }
+
+  .side-bar + .main {
+    margin-left: 13rem !important;
+  }
+
+  .site-nav,
+  .site-header,
+  .site-footer {
+    width: 13rem !important;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: calc((100% - 70rem) / 2 + 13rem) !important;
+    min-width: 13rem !important;
+  }
+
+  .side-bar + .main {
+    margin-left: Max(13rem, calc((100% - 70rem) / 2 + 13rem)) !important;
+  }
+
+  .site-nav,
+  .site-header,
+  .site-footer {
+    width: 13rem !important;
+  }
+}
+
+.theme-toggle-wrap {
+  position: fixed;
+  bottom: $sp-4;
+  right: $sp-4;
+  z-index: 1000;
+}
+
+.theme-toggle {
+  @extend .btn, .btn-outline;
 }
