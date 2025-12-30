@@ -103,6 +103,26 @@ summary {
   color: inherit !important;
 }
 
+.aux-nav,
+.aux-nav-list,
+.aux-nav-list-item {
+  overflow: visible !important;
+}
+
+.aux-icon a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: $sp-2;
+  position: relative;
+}
+
+.aux-icon-img {
+  height: 28px;
+  width: auto;
+  display: block;
+}
+
 .about-hero {
   display: flex;
   justify-content: center;
