@@ -196,16 +196,16 @@ summary {
   padding: $sp-2 $sp-3;
   // background: #fff;
   // border: none;
-  // border-radius: $border-radius;
-  // box-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+  border-radius: $border-radius;
+  box-shadow: 0 4px 14px rgba(10, 10, 10, 0.25);
 
-  &:hover,
-  &:focus,
-  &:active {
-    background: transparent;
-    box-shadow: none;
-    outline: none;
-  }
+  // &:hover,
+  // &:focus,
+  // &:active {
+  //   background: transparent;
+  //   box-shadow: none;
+  //   outline: none;
+  // }
 }
 
 .theme-toggle-icon {
