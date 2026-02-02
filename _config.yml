@@ -26,8 +26,8 @@ exclude:
   - "vendor"
 
 canvas: &canvas_url https://canvas.mit.edu/courses/37810
-gradescope: &gradescope_url https://www.gradescope.com/courses/123456
-piazza: &piazza_url https://piazza.com/class/abc123
+gradescope: &gradescope_url https://www.gradescope.com/courses/1248436
+piazza: &piazza_url https://piazza.com/class/ml5i6b0cinw74w
 
 
 # Theme settings
