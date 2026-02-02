@@ -26,13 +26,13 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 10-250
-      - name: Isha's OH
+      - name: "Isha's OH"
         start: 3:00 PM
         end: 4:00 PM
         location: TBD
   - name: Wednesday
     events: 
-      - name: Daniel's OH
+      - name: "Daniel's OH"
         start: 3:00 PM
         end: 4:00 PM
         location: TBD
@@ -44,14 +44,14 @@ schedule:
         location: 10-250
   - name: Friday
     events: 
-      - name: Shorna's OH
+      - name: "Shorna's OH"
         start: 10:00 AM
         end: 11:00 AM
         location: TBD
-      - name: Mihir's OH
+      - name: "Mihir's OH"
         start: 2:00 PM
         end: 3:00 PM
         location_label: Zoom
-        location_url: https://us04web.zoom.us/j/74985851021?pwd=wmQ2DhBoqlBvEElcNRXSKq1NTIUhQe.1
+        location_url: "https://us04web.zoom.us/j/74985851021?pwd=wmQ2DhBoqlBvEElcNRXSKq1NTIUhQe.1"
 
 ---
