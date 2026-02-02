@@ -21,8 +21,35 @@
             style="top: {{ top }}px; height: {{ height }}px;">
           <div class="name">{{ event.name }}</div>
           <div class="time">{{ event.start }}–{{ event.end }}</div>
-          {% if event.location %}
-          <div class="location">{{ event.location }}</div>
+          {% if event.location_url %}
+          <div class="location">
+            <span class="location-label">Location:</span>
+            <a href="{{ event.location_url }}" target="_blank" rel="noopener">
+              {{ event.location_label | default: event.location_url }}
+            </a>
+          </div>
+          {% elsif event.location and event.location contains '](' %}
+          {% assign location_label = event.location | split: '](' | first | remove: '[' %}
+          {% assign location_url = event.location | split: '](' | last | remove: ')' %}
+          <div class="location">
+            <span class="location-label">Location:</span>
+            <a href="{{ location_url }}" target="_blank" rel="noopener">{{ location_label }}</a>
+          </div>
+          {% elsif event.location and event.location contains 'http://' %}
+          <div class="location">
+            <span class="location-label">Location:</span>
+            <a href="{{ event.location }}" target="_blank" rel="noopener">{{ event.location }}</a>
+          </div>
+          {% elsif event.location and event.location contains 'https://' %}
+          <div class="location">
+            <span class="location-label">Location:</span>
+            <a href="{{ event.location }}" target="_blank" rel="noopener">{{ event.location }}</a>
+          </div>
+          {% elsif event.location %}
+          <div class="location">
+            <span class="location-label">Location:</span>
+            {{ event.location }}
+          </div>
           {% endif %}
         </li>
       {% endfor %}

@@ -92,6 +92,10 @@
       @extend .fs-2;
     }
 
+    .location a {
+      text-decoration: none;
+    }
+
     &.lecture {
       background-color: #f467ae;
     }

@@ -43,9 +43,6 @@ aux_links:
     - *gradescope_url
   Piazza:
     - *piazza_url
-footer_content: >
-  Inspired by <a href="https://gradml.mit.edu" target="_blank" rel="noopener">gradml.mit.edu</a>
-  · Built with <a href="https://just-the-docs.github.io/just-the-docs/" target="_blank" rel="noopener">Just the Docs</a>
 
 # Collections for website data
 collections:
