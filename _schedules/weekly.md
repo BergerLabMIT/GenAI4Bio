@@ -52,6 +52,6 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location_label: Zoom
-        location_url: https://us04web.zoom.us/j/3304940608?pwd=UkNTTGFwUnk2V3MybVI4b1BhOHdBdz09
+        location_url: https://us04web.zoom.us/j/74985851021?pwd=wmQ2DhBoqlBvEElcNRXSKq1NTIUhQe.1
 
 ---
