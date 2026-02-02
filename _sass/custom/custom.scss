@@ -86,6 +86,11 @@ summary {
   background-color: #f467ae;
 }
 
+.label-gray:not(g) {
+  background-color: #e5e7eb;
+  color: #374151;
+}
+
 .icon,
 .main-content .anchor-heading svg,
 .nav-list .nav-list-item .nav-list-expander,
