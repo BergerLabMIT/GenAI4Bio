@@ -4,6 +4,15 @@
 <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/eecs.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/images/eecs.png' | relative_url }}">
+<style>
+  /* Prevent flash of aux-link text before JS replaces with icons */
+  .aux-nav a[href="{{ site.canvas }}"],
+  .aux-nav a[href="{{ site.gradescope }}"],
+  .aux-nav a[href="{{ site.piazza }}"] {
+    color: transparent;
+    font-size: 0;
+  }
+</style>
 <script src="https://unpkg.com/@popperjs/core@2" defer></script>
 <script src="https://unpkg.com/tippy.js@6" defer></script>
 <script>

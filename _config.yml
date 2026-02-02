@@ -25,7 +25,7 @@ exclude:
   - "LICENSE"
   - "vendor"
 
-canvas: &canvas_url https://canvas.mit.edu/your-course
+canvas: &canvas_url https://canvas.mit.edu/courses/37810
 gradescope: &gradescope_url https://www.gradescope.com/courses/123456
 piazza: &piazza_url https://piazza.com/class/abc123
 
