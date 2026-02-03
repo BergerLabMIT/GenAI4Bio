@@ -102,7 +102,7 @@ summary {
 
 .main {
   @include mq(md) {
-    max-width: 70rem;
+    max-width: 72rem;
   }
 }
 
@@ -160,16 +160,16 @@ summary {
 
 .main-content-wrap {
   padding-left: $sp-3;
-  padding-right: $sp-15;
+  padding-right: $sp-6;
 
   @include mq(md) {
     padding-left: $sp-5;
-    padding-right: $sp-16;
+    padding-right: $sp-8;
   }
 
   @include mq(lg) {
     padding-left: $sp-6;
-    padding-right: $sp-16;
+    padding-right: $sp-10;
   }
 }
 
@@ -192,12 +192,12 @@ summary {
 
 @media (min-width: 66.5rem) {
   .side-bar {
-    width: calc((100% - 70rem) / 2 + 13rem) !important;
+    width: calc((100% - 72rem) / 2 + 13rem) !important;
     min-width: 13rem !important;
   }
 
   .side-bar + .main {
-    margin-left: Max(13rem, calc((100% - 70rem) / 2 + 13rem)) !important;
+    margin-left: Max(13rem, calc((100% - 72rem) / 2 + 13rem)) !important;
   }
 
   .site-nav,
