@@ -35,7 +35,7 @@ schedule:
       - name: "Daniel's OH"
         start: 3:00 PM
         end: 4:00 PM
-        location: TBD
+        location: 2-341C
   - name: Thursday
     events:
       - name: Lecture
