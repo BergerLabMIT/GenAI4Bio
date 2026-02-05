@@ -28,6 +28,7 @@ exclude:
 canvas: &canvas_url https://canvas.mit.edu/courses/37810
 gradescope: &gradescope_url https://www.gradescope.com/courses/1248436
 piazza: &piazza_url https://piazza.com/class/ml5i6b0cinw74w
+lectures_drive_url: &lectures_drive_url https://drive.google.com/drive/u/0/folders/1uRNnGzGUemoMY-IRbwSg5pZl9_SyrQla
 
 
 # Theme settings

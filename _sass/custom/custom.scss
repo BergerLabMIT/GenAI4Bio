@@ -91,6 +91,17 @@ summary {
   color: #374151;
 }
 
+a.label.label-purple {
+  color: #fff;
+  text-decoration: none;
+}
+
+a.label.label-purple:hover,
+a.label.label-purple:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
 .icon,
 .main-content .anchor-heading svg,
 .nav-list .nav-list-item .nav-list-expander,
