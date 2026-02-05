@@ -29,7 +29,7 @@ schedule:
       - name: "Isha's OH"
         start: 3:00 PM
         end: 4:00 PM
-        location: TBD
+        location: 45-709
   - name: Wednesday
     events: 
       - name: "Daniel's OH"
