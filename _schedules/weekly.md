@@ -47,7 +47,8 @@ schedule:
       - name: "Shorna's OH"
         start: 10:00 AM
         end: 11:00 AM
-        location: TBD
+        location_label: Zoom
+        location_url: https://mit.zoom.us/my/shornaalam
       - name: "Mihir's OH"
         start: 2:00 PM
         end: 3:00 PM
