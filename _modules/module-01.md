@@ -28,8 +28,7 @@ Feb 12
 
 
 Feb 17
-: [**Lecture 05**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Variational Autoencoders (VAEs)
-  : Eric Alm
+: **President's Day**{: .label .label-gray }  
     
 
 Feb 19
@@ -37,29 +36,29 @@ Feb 19
   : Onkar Gujral
 
 Feb 24
-: [**Lecture 07**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  CNNs for DNA 
+: [**Lecture 07**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Variational Autoencoders (VAEs)
   : Eric Alm
     : <span class="label label-purple">PSET 1 Due</span> <span class="label label-gray">PSET 2 Out</span>
 
 
 Feb 26
-: [**Lecture 08**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Training deep networks
+: [**Lecture 08**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  CNNs for DNA
   : Eric Alm
 
 Mar 03
-: [**Lecture 09**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
+: [**Lecture 09**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Training deep networks
   : Eric Alm
 
 Mar 05
-: [**Lecture 10**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins
-  : Bonnie Berger
+: [**Lecture 10**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
+  : Eric Alm
     
 Mar 10
-: [**Lecture 11**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for protein interactions
+: [**Lecture 11**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins and evolution
   : Bonnie Berger
 
 Mar 12
-: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  PLMs for Evolution
+: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for protein interactions
   : Bonnie Berger
     : <span class="label label-purple">PSET 2 Due</span> <span class="label label-gray">PSET 3 Out</span>
 
