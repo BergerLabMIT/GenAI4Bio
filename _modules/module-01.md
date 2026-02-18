@@ -100,8 +100,8 @@ Apr 14
 
 
 Apr 16
-: [**Lecture 20**][lectures]{: .label .label-purple target="_blank" rel="noopener" } PLMs for MSAs
-  : BB or MH
+: [**Lecture 20**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
+  : TBA
       : <span class="label label-purple">PSET 4 Due</span>
 
 
@@ -111,8 +111,8 @@ Apr 21
 
 
 Apr 23
-: [**Lecture 22**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
-  : TBA
+: [**Lecture 22**][lectures]{: .label .label-purple target="_blank" rel="noopener" } MSA in the Era of PLMs
+  : Minh Hoang
 
 
 Apr 28
