@@ -59,7 +59,7 @@ Mar 10
 
 Mar 12
 : [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
-  : Bonnie Berger
+  : Eric Alm
     : <span class="label label-purple">PSET 2 Due</span> <span class="label label-gray">PSET 3 Out</span>
 
 Mar 17
