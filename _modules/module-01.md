@@ -50,15 +50,15 @@ Mar 03
   : Eric Alm
 
 Mar 05
-: [**Lecture 10**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
-  : Eric Alm
+: [**Lecture 10**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins I
+  : Bonnie Berger
     
 Mar 10
-: [**Lecture 11**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins and evolution
+: [**Lecture 11**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins II
   : Bonnie Berger
 
 Mar 12
-: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for protein interactions
+: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
   : Bonnie Berger
     : <span class="label label-purple">PSET 2 Due</span> <span class="label label-gray">PSET 3 Out</span>
 
