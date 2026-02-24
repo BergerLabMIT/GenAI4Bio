@@ -36,17 +36,17 @@ Feb 19
   : Onkar Gujral
 
 Feb 24
-: [**Lecture 07**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Variational Autoencoders (VAEs)
-  : Eric Alm
+: **No Class (weather)**{: .label .label-gray } 
+  : <span></span>
     : <span class="label label-purple">PSET 1 Due</span> <span class="label label-gray">PSET 2 Out</span>
 
 
 Feb 26
-: [**Lecture 08**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  CNNs for DNA
+: [**Lecture 08**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Variational Autoencoders (VAEs)
   : Eric Alm
 
 Mar 03
-: [**Lecture 09**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Training deep networks
+: [**Lecture 09**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
   : Eric Alm
 
 Mar 05
@@ -58,7 +58,7 @@ Mar 10
   : Bonnie Berger
 
 Mar 12
-: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
+: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  CNNs for DNA
   : Eric Alm
     : <span class="label label-purple">PSET 2 Due</span> <span class="label label-gray">PSET 3 Out</span>
 
