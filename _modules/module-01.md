@@ -32,7 +32,7 @@ Feb 17
     
 
 Feb 19
-: [**Lecture 06**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  SAEs and biological interpretability
+: [**Lecture 05**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  SAEs and biological interpretability
   : Onkar Gujral
 
 Feb 24
@@ -42,32 +42,32 @@ Feb 24
 
 
 Feb 26
-: [**Lecture 08**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Variational Autoencoders (VAEs)
+: [**Lecture 06**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Variational Autoencoders (VAEs)
   : Eric Alm
 
 Mar 03
-: [**Lecture 09**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
+: [**Lecture 07**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  Transformers
   : Eric Alm
 
 Mar 05
-: [**Lecture 10**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins I
+: [**Lecture 08**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins I
   : Bonnie Berger
     
 Mar 10
-: [**Lecture 11**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins II
+: [**Lecture 09**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  LLMs for proteins II
   : Bonnie Berger
 
 Mar 12
-: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  CNNs for DNA
+: [**Lecture 10**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  CNNs for DNA
   : Eric Alm
     : <span class="label label-purple">PSET 2 Due</span> <span class="label label-gray">PSET 3 Out</span>
 
 Mar 17
-: [**Lecture 13**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  GNNs for Chemistry
+: [**Lecture 11**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  GNNs for Chemistry
   : Eric Alm
 
 Mar 19
-: [**Lecture 14**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  GNNs for single cell genomics
+: [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  GNNs for single cell genomics
   : Bonnie Berger
 
 Mar 24
@@ -77,50 +77,50 @@ Mar 26
 : **Spring Break**{: .label .label-gray }
 
 Mar 31
-: [**Lecture 15**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Diffusion Generative Models I
+: [**Lecture 13**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Diffusion Generative Models I
   : Bowen Jing
     : <span class="label label-purple">PSET 3 Due</span> <span class="label label-gray">PSET 4 Out</span>
 
 Apr 2
-: [**Lecture 16**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Diffusion Generative Models II
+: [**Lecture 14**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Diffusion Generative Models II
   : Bowen Jing
 
 Apr 7
-: [**Lecture 17**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Protein Structure Prediction
+: [**Lecture 15**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Protein Structure Prediction
   : Eric Alm
 
 Apr 9
-: [**Lecture 18**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Protein Design
+: [**Lecture 16**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Protein Design
   : Mihir Bafna
 
 
 Apr 14
-: [**Lecture 19**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
+: [**Lecture 17**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
   : TBA
 
 
 Apr 16
-: [**Lecture 20**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
+: [**Lecture 18**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
   : TBA
       : <span class="label label-purple">PSET 4 Due</span>
 
 
 Apr 21
-: [**Lecture 21**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Deep learning for epigenomics
+: [**Lecture 19**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Deep learning for epigenomics
   : Ruochi Zhang
 
 
 Apr 23
-: [**Lecture 22**][lectures]{: .label .label-purple target="_blank" rel="noopener" } MSA in the Era of PLMs
+: [**Lecture 20**][lectures]{: .label .label-purple target="_blank" rel="noopener" } MSA in the Era of PLMs
   : Minh Hoang
 
 
 Apr 28
-: [**Lecture 23**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
+: [**Lecture 21**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
   : TBA
 
 Apr 30
-: [**Lecture 24**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
+: [**Lecture 22**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
   : TBA
 
 May 5
