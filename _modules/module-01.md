@@ -65,6 +65,8 @@ Mar 12
 Mar 17
 : [**Lecture 11**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  GNNs for Chemistry
   : Eric Alm
+    : <span class="label label-purple">Proposal Due</span>
+
 
 Mar 19
 : [**Lecture 12**][lectures]{: .label .label-purple target="_blank" rel="noopener" }  GNNs for single cell genomics
@@ -97,6 +99,7 @@ Apr 9
 Apr 14
 : [**Lecture 17**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
   : TBA
+    : <span class="label label-purple">Milestone Due</span>
 
 
 Apr 16
