@@ -53,6 +53,6 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location_label: Zoom
-        location_url: "https://us04web.zoom.us/j/74985851021?pwd=wmQ2DhBoqlBvEElcNRXSKq1NTIUhQe.1"
+        location_url: "https://mit.zoom.us/j/92359145826"
 
 ---
