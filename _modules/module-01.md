@@ -98,7 +98,7 @@ Apr 9
 
 Apr 14
 : [**Lecture 17**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
-  : TBA
+  : Ava Amini
     : <span class="label label-purple">Milestone Due</span>
 
 
