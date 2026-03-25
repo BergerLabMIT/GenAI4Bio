@@ -97,7 +97,7 @@ Apr 9
 
 
 Apr 14
-: [**Lecture 17**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
+: [**Lecture 17**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Rethinking scale in single-cell foundation models
   : Ava Amini
     : <span class="label label-purple">Milestone Due</span>
 
