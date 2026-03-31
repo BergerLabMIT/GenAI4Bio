@@ -120,11 +120,11 @@ Apr 23
 
 Apr 28
 : [**Lecture 21**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
-  : TBA
+  : Daniel Schaffer
 
 Apr 30
 : [**Lecture 22**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
-  : TBA
+  : Ellen Zhong
 
 May 5
 : **Final**{: .label .label-purple } Project Presentations
