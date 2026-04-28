@@ -119,7 +119,7 @@ Apr 23
 
 
 Apr 28
-: [**Lecture 21**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Invited talk
+: [**Lecture 21**][lectures]{: .label .label-purple target="_blank" rel="noopener" } Deep Learning and 'Foundation' Modeling of single cells
   : Daniel Schaffer
 
 Apr 30
